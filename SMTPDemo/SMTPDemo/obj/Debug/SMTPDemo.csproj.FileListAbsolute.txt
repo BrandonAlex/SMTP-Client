@@ -1,0 +1,9 @@
+c:\users\brandon\documents\visual studio 2013\Projects\SMTPDemo\SMTPDemo\bin\Debug\SMTPDemo.exe.config
+c:\users\brandon\documents\visual studio 2013\Projects\SMTPDemo\SMTPDemo\bin\Debug\SMTPDemo.exe
+c:\users\brandon\documents\visual studio 2013\Projects\SMTPDemo\SMTPDemo\bin\Debug\SMTPDemo.pdb
+c:\users\brandon\documents\visual studio 2013\Projects\SMTPDemo\SMTPDemo\obj\Debug\SMTPDemo.csprojResolveAssemblyReference.cache
+c:\users\brandon\documents\visual studio 2013\Projects\SMTPDemo\SMTPDemo\obj\Debug\SMTPDemo.Form1.resources
+c:\users\brandon\documents\visual studio 2013\Projects\SMTPDemo\SMTPDemo\obj\Debug\SMTPDemo.Properties.Resources.resources
+c:\users\brandon\documents\visual studio 2013\Projects\SMTPDemo\SMTPDemo\obj\Debug\SMTPDemo.csproj.GenerateResource.Cache
+c:\users\brandon\documents\visual studio 2013\Projects\SMTPDemo\SMTPDemo\obj\Debug\SMTPDemo.exe
+c:\users\brandon\documents\visual studio 2013\Projects\SMTPDemo\SMTPDemo\obj\Debug\SMTPDemo.pdb
