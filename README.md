@@ -1,2 +1,2 @@
 # SMTPDemo
-Send email using SMTP, defined it a different way than SMTP
+Send an email using Simple Mail Transfer Protocol (SMTP)
